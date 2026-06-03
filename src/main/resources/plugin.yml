@@ -1,0 +1,11 @@
+name: HardcoreChallenge
+version: '1.0-SNAPSHOT'
+main: xyz.vocoid.challenge.hardcore.ChallengePlugin
+api-version: '26.1'
+load: STARTUP
+author: vocoid
+website: https://vocoid.xyz
+
+commands:
+  deathtop:
+    description: View the death leaderboard

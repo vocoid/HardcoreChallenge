@@ -1,0 +1,5 @@
+world: world
+
+# below should NEVER be touched
+scheduled: false
+deaths:
